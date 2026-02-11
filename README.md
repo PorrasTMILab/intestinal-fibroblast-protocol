@@ -2,7 +2,7 @@
 ## Overview
 **CellProfiler pipelines quantifying activation markers (α-SMA, FAP, Vinculin) and cell counts** from the study:  
 *[Developing a Protocol to Counteract Spontaneous In vitro Activation of Intestinal Fibroblasts Using Design of Experiments](https://www.researchsquare.com/article/rs-7677632/v1)*
-This paper investigate an _in vitro_ approach to induce inactivated culture of colonic fibroblasts on TCPS. 
+This paper investigates an _in vitro_ approach to induce inactivated culture of colonic fibroblasts on TCPS. 
 
 ## Pipelines 
 
