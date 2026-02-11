@@ -1,6 +1,8 @@
 # intestinal-fibroblast-protocol
 ## Overview
-This paper investigate an _in vitro_ approach to induce inactivated culture of colonic fibroblasts on TCPS. (https://www.researchsquare.com/article/rs-7677632/v1)   CellProfiler pipelines were used for quantifying fibroblast activation markers_such as alpha-SMA, FAP, Vinculin_ as well as cell count.
+**CellProfiler pipelines quantifying activation markers (α-SMA, FAP, Vinculin) and cell counts** from the study:  
+*[Developing a Protocol to Counteract Spontaneous In vitro Activation of Intestinal Fibroblasts Using Design of Experiments](https://www.researchsquare.com/article/rs-7677632/v1)*
+This paper investigate an _in vitro_ approach to induce inactivated culture of colonic fibroblasts on TCPS. 
 
 ## Pipelines 
 
